@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Shirt",
+    "image": "/black-classic-shirt.jpg",
+    "price":"2,500",
+    "description":"Pure cotton"
+  },
+  {
+    "id": 2,
+    "name": "Pants",
+    "image": "/702.png",
+    "price":"2,000",
+    "description":"Regular Fit"
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt",
+    "image": "/images.jpg",
+    "price":"300",
+    "description":"Rare and Trendy Order"
+  },
+  {
+    "id":4,
+    "name":"Suits",
+    "image":"coat.jpg",
+    "price":"10,000",
+    "description":"Rare and Trendy Order"
+  },
+  {
+    "id":5,
+    "name":"Hoodie",
+    "image":"hood.png",
+    "price":"2,000",
+    "description":"Rare and Trendy Order"
+  },
+  {
+    "id":6,
+    "name":"Sweat Shirt",
+    "image":"sw.png",
+    "price":"3,000",
+    "description":"Rare and Trendy Order"
+  }
+]

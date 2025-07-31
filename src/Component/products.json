@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook",
+    "image": "/mac.png",
+    "cart": false,
+    "price":"1,20,000"
+  },
+  {
+    "id": 2,
+    "name": "iPhone",
+    "image": "/iphone.jpg",
+     "cart": false,
+     "price":"70,000"
+
+  },
+  {
+    "id": 3,
+    "name": "AirPods",
+    "image": "/airp.png",
+     "cart": false,
+     "price":"23,000"
+  },
+  {
+    "id":4,
+    "name":"Samsung",
+    "image":"sm.png",
+     "cart": false,
+     "price":"33,000"
+  },
+  {
+    "id":5,
+    "name":"Omen",
+    "image":"omen.jpg",
+     "cart": false,
+     "price":"1,00,000"
+  },
+  {
+    "id":6,
+    "name":"Airbuds",
+    "image":"air.png",
+     "cart": false,
+     "price":"800"
+  }
+]
